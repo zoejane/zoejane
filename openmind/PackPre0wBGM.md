@@ -1,5 +1,6 @@
 # Pre0w BGM 
 
+## BGM 00
 
 ### 正面
 ![](http://img.xiami.net/images/album/img58/23258/20993608051399363188_2.jpg)
@@ -17,19 +18,17 @@
 是的,就是永远的帅哥哥 乔治·克鲁尼 出演的 "逃狱三王" !
 OST 精选了 30 年代美国乡村音乐,
 而乡村音乐就是农民们劳动时为了排遣劳累自然啍唱的音乐哪,
-那么这两周,即使在假期中,
-大家也应该将心神切换到 主动/着意/持续 的自我学习状态中了.
-
+那么这两周,大家也应该将心神切换到 主动/着意/持续 的自我学习状态中了.
 
 ### 背面
-
-
 进一步的, 每一个困惑, 其实都有3种以上的方式逃离经验的深渊,
 嗯哼,具体哪3种? "逃狱三王" 中已经曰过了.
 
+## BGM 01
+
 ### 正面
 
-![The Animatrix The Album](http://img3.douban.com/view/movie_poster_cover/spst/public/p1185327352.jpg)
+![](http://img.xiami.net/images/album/img56/23256/301941_2.jpg)
 
 [The Animatrix The Album 专辑 - 虾米音乐](http://www.xiami.com/album/301941) (2003)
 
@@ -43,18 +42,16 @@ OST 精选了 30 年代美国乡村音乐,
 正如刚刚吃了药进入异世界的 Neo,
 一切都那么 Matrix !
 
-
-
 ### 背面
-
 
 `Who Am I? [Anamatrix Edit]` 非常契合这种体验,
 在和即有经验体系作斗争时,这一专辑值得陪伴!
 
+## BGM 02
+
 ### 正面
 
-
-![Le peuple migrateur](http://img4.douban.com/view/movie_poster_cover/spst/public/p2238274168.jpg)
+![](http://img.xiami.net/images/album/img69/23669/1696171474876888_2.jpg)
 
 [Le Peuple Migrateur (Original Motion Picture Soundtrack)专辑](http://www.xiami.com/album/169617?spm=a1z1s.3521873.23310065.2.WnZEMW) (2008) Bruno Coulais
 
@@ -64,9 +61,6 @@ OST 精选了 30 年代美国乡村音乐,
 
 电影又名: 鸟的迁徙 / 鸟与梦飞行 / 鹏程千万里 / 迁徙的候鸟 / 我是一只季候鸟 / 天地人三部曲之迁徙的鸟 / The Travelling Birds / Winged Migration
 
-
-
-
 ### 背面
 
 和天空之城一样,是大妈们每年必返场回顾的电影.
@@ -75,6 +69,8 @@ Bruno 大叔异常精确的用世界音乐的格局将鸟类遵从基因的召�
 无畏大自然险阻,万里迁徙那种真正的持着,舒缓而磅礴的表现了出来.
 
 直面 Python 世界的你们,正如首次 迁徙的雏鸟 ,坚定而磅礴起来吧!
+
+## BGM 03
 
 ### 正面
 
@@ -108,10 +104,6 @@ Bruno 大叔异常精确的用世界音乐的格局将鸟类遵从基因的召�
 戮力按时完成任务! 什么时候意识到程序 "I'm Alive" ,
 乐于和电脑交流时, 编程思维就能自然的在我们头脑中生根发芽了 ;-)
 
-
-
-
-
 ### 背面
 
 PS: 
@@ -120,6 +112,9 @@ PS:
 
 女主 [Saoirse Ronan](http://movie.douban.com/celebrity/1022004/)
 孔雀绿深瞳很惊艳
+
+## BGM 04
+
 ### 正面
 
 ![](http://img.xiami.net/images/album/img46/35546/4223561296108542_2.jpg)
@@ -146,9 +141,6 @@ PS:
 就象 黑鹰坠落 反复的在绝望和希望中挣扎...
 那就是成长的感觉!
 
-
-
-
 ### 背面
 
 是张很有张力,以及丰富气场的世界音乐,
@@ -161,10 +153,11 @@ PS:
 去!去! 没有荣誉 只有压迫和奴役
 ...
 
+## BGM 05
+
 ### 正面
 
-[s4618712.jpg(JPEG 图像,300x300 像素)](http://img3.douban.com/lpic/s4618712.jpg)
-
+![](http://img.xiami.net/images/album/img97/6997/315561408523447_2.jpg)
 
 [Kaishin](http://www.xiami.com/album/31556) (1988) [S.E.N.S. | 神思者](http://music.douban.com/musician/103038/)
 
@@ -202,9 +195,6 @@ PS:
 我们进行任何类型系统/软件开发时,也应该找到自个儿的一种思考/调试/增补代码的核心结构,
 这样才能从容的感人...
 
-
-
-
 ### 背面
 
 - 特别是 `Felucca` 这首乐曲
@@ -212,7 +202,11 @@ PS:
 - ![](http://a.hiphotos.baidu.com/baike/s%3D220/sign=ae08c259fdfaaf5180e386bdbc5494ed/7e3e6709c93d70cf5bd4c072f8dcd100baa12ba6.jpg)
 - 惊为天人, 生生啍记下来旋律
 - 11年后无意间才知道是来自日本的 S.E.N.S !
+
+## BGM 06
+
 ### 正面
+
 ![グーグーだって猫である](http://img.xiami.net/images/album/img4/108604/7107610331410761033_2.jpg?imageView2/2/w/150)
 
 [グーグーだって猫である TV版 原声带](http://www.xiami.com/album/710761033?spm=a1z1s.3061781.6856533.9.XXoYwG) (2014) [高田漣](http://www.xiami.com/artist/108604?spm=a1z1s.6659513.6856585.1.Ulj1SV)
@@ -239,9 +233,6 @@ WWW ~ World Wide Web 或曰 万维网,
 
 官网: [連続ドラマW　グーグーだって猫である｜WOWOWオンライン](http://www.wowow.co.jp/dramaw/gou-gou/)
 
-
-
-
 ### 背面
 
 
@@ -252,6 +243,8 @@ WWW ~ World Wide Web 或曰 万维网,
 永远的女神, Audrey Hepburn 之后唯一气质上接近的女神!
 
 `注意:` 此篇 BGM 有大梗,看谁发觉的了.
+
+## BGM 07
 
 ### 正面
 
@@ -274,16 +267,18 @@ WWW ~ World Wide Web 或曰 万维网,
 非常合适从本地网络突破到真实的广域网中的我们,
 在舒放的音乐中,享受自己的智能爽直的解决一个又一个问题吧!
 
-
-
-
 ### 背面
 
 是也乎,(￣▽￣):
 
 - 当然的,也是因为和 [阿部宽](http://movie.douban.com/celebrity/1012581/) 合作 "不能结婚的男人" 而引爆关注的 [夏川结衣](http://movie.douban.com/celebrity/1018741/) 姐姐了,,,
 - 少有的月半了之后气势加倍的女优 ;-)
+
+## BGM 08
+
 ### 正面
+
+![](http://img.xiami.net/images/album/img66/56766/311290_2.jpg)
 
 晚间新闻 (2000) 木头床
 
@@ -292,10 +287,11 @@ WWW ~ World Wide Web 或曰 万维网,
     少见的清冽后摇乐队
     非常吻合大家迷茫又快乐的情绪
 
-
 ### 背面
 
 嗯嗯嗯,还包含了个梗在其中,谁最先识别出,并给出证据链接,加 4.2分!
+
+## BGM 09
 
 ### 正面
 
@@ -317,13 +313,13 @@ WWW ~ World Wide Web 或曰 万维网,
         即兴曲(二)
     嗯嗯嗯?! 简直就是编程过程的心境描述哪!
 
-
-
 ### 背面
+
+## BGM 10
 
 ### 正面
 
-![s3653340.jpg(JPEG 图像,200x198 像素)](http://img3.douban.com/lpic/s3653340.jpg)
+![](http://img.xiami.net/images/album/img0/3328011244629807_2.jpg)
 
 大山百合香 (2007) 光あるもの (专辑:夏のしずく)
 
@@ -333,13 +329,12 @@ WWW ~ World Wide Web 或曰 万维网,
     更加可怕的是这首原创主题曲
     无法想象能有更加吻合当下行走在中国大地上更加合理的情绪了
 
-
-
-
 ### 背面
 
 总是在不经意间遇到那些 `闪亮的存在` ,学习就是这样的哪,,,,
 又一张可以反复永远循环下去的背景音乐.
+
+## BGM 11
 
 ### 正面
 
@@ -352,11 +347,11 @@ WWW ~ World Wide Web 或曰 万维网,
     如果看过漫画,那么 阿尔法 那种恬静/淡然的气质,
     真心完备的记录在专辑中了;
 
-
-
 ### 背面
 
 也是一张可以无限循环,安定漂浮之心的闲适之音.
+
+## BGM 12
 
 ### 正面
 
@@ -369,15 +364,16 @@ Miley.Cyrus (2009) The.Climb (EP)
     令大妈寒毛倒竖不矣
     以至,回来就下载了同名美剧
 
-
 ### 背面
 
 是的,无论面对爱情还是代码,都得一住无前!
 这一周,大家准备爬多高!?
 
+## BGM 13
+
 ### 正面
 
-![s1507513.jpg(JPEG 图像,200x201 像素)](http://img3.douban.com/lpic/s1507513.jpg)
+![](http://img.xiami.net/images/album/img11/24011/1711851465708047_2.jpg)
 
 
 萤火虫  2002 [山居歲月]((http://music.douban.com/subject/1507397/)) 
@@ -389,20 +385,16 @@ Miley.Cyrus (2009) The.Climb (EP)
     於是,她成了整座山城最快樂的貓. 
     這音樂,為自己寫,為雀斑寫,更為了所有渴望山居生活的朋友而寫.  
 
-
-
 ### 背面
 
 嗯啍,挺过又一轮无上折腾,夏天都近了.
 推荐这一辑值得7*24小时循环的风潮之乐,安抚面对好象无尽问题时的暴燥.
 
+## BGM 14
+
 ### 正面
 
-
-
-![](http://img3.douban.com/img/musician/large/5439.jpg)
-
-
+![](http://img.xiami.net/images/album/img7/17507/1557951333176290_2.jpg)
 
 Wilson Phillips (1990)) Wilson Phillips
 
@@ -411,15 +403,16 @@ Wilson Phillips (1990)) Wilson Phillips
     所以,打小儿就在一起折腾音乐
     一出专辑立即引爆排行榜
 
-
-
 ### 背面
 
 当年大妈在 MH CD3 中听到后,立即被 三位MM 无间的默契打动,
 淘来了CD, 到今天依然是电脑里必备的情绪音乐.
 
-希望刚刚组成团队的你们,也能有 Wilson 姐妹们的默契 ;-)### 正面
+希望刚刚组成团队的你们,也能有 Wilson 姐妹们的默契 ;-)
 
+## BGM 15
+
+### 正面
 
 ![](http://f.hiphotos.baidu.com/baike/whfpf%3D268%2C362%2C50/sign=14e9194dd143ad4ba67b1580e43f6899/5d6034a85edf8db106c9988c0923dd54574e7477.jpg)
 
@@ -431,16 +424,14 @@ Wilson Phillips (1990)) Wilson Phillips
     "坂上之云"本身意思是"顺着山坡(坂)上升的云",
     折射日本在明治维新时期奋发图强,学习追赶西方列强,国力不断增强的情景;
 
-
-
-
-
 ### 背面
 
 - 阮一峰 专门推荐过此剧,才知道并死追下来的,
 - 只说音乐哪,大神 久石让 的,精确的展现了那种深沉的浮升感觉,
 - 即所谓: `积厚而薄发` 吧!
 - 也是很好的环境音乐, 值得作为现在必须坚持住的你.
+
+## BGM 16
 
 ### 正面
 
@@ -453,12 +444,12 @@ Sinead.O.Connor (1994) Universal.Mother
     直到多年后,才下载到完备版本听了个够!
     出生在 爱尔兰 的最具争议的Pop巨星...
 
-
-
 ### 背面
 
 这张专辑中蕴涵着巨量的愤怒,却又以异常秩序以及动人的形式展现了出来,
 大家的代码也能有这种张力嘛?!
+
+## BGM 17
 
 ### 正面
 
@@ -471,12 +462,12 @@ Zero 7 (2001) Simple Things
     英伦电子迷幻类
     Soul,Acid Jazz,Funk,Trip-Hop到Ambient Techno 都包含其中
 
-
-
 ### 背面
 
 一听就停不下来永远循环下去的节奏
 正如大家学 Python 的状态卟!?
+
+## BGM 18
 
 ### 正面
 
@@ -488,14 +479,14 @@ Suzanne Vega (1987) Solitude Standing
         Tom's Dinner
     让大妈记住了苏珊大姐,民谣的
 
-
 ### 背面
 
 这种淡淡的平稳的自信的自说自话的状态,正是大家现在的心态吧 ;-)
 
+## BGM 19
 
 ### 正面
-![s2556752.jpg(JPEG 图像,363x363 像素)](http://img3.douban.com/lpic/s2556752.jpg)
+![](http://img.xiami.net/images/album/img66/23566/1691981380188289_2.jpg)
 
 Corinne Bailey Rae (2006) Corinne Bailey Rae 
 
@@ -504,15 +495,14 @@ Corinne Bailey Rae (2006) Corinne Bailey Rae
     甜美放松稍迷幻的女声
     立即记住了 ;-)
 
-
-
-
 ### 背面
 
 在经过 12周的自我深度折腾后,
 我们每个人都应该感觉到:
 
     Like a Star
+
+## BGM 20
 
 ### 正面
 
@@ -525,9 +515,6 @@ Corinne Bailey Rae (2006) Corinne Bailey Rae
     这专辑竟然一丁点儿老气也没有!
     性感,率真,阳光!
 
-
-
-
 ### 背面
 
 主打歌曲是 `凉啊凉` ;-)
@@ -539,6 +526,8 @@ Corinne Bailey Rae (2006) Corinne Bailey Rae
     畅快到飞溅的
     凉爽!?
 
+## BGM 21
+
 ### 正面
 
 ![](http://www.565656.com/pic/album/2012/12/21/63491693701898060403474769.jpg)
@@ -548,10 +537,6 @@ Fin.K.l (1998) Blue Rain
     这张专辑连续唱了半年,
     在大妈每月拿600元时,
     每天早晨,用 Fin.K.l 的活力激励自个儿
-
-
-
-
 
 ### 背面
 
