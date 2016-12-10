@@ -4,12 +4,23 @@
 <dict>
 	<key>childOrder</key>
 	<array>
+		<string>PackPre0wFreshen</string>
 		<string>PackPre0wFreshman</string>
 	</array>
 	<key>resolutionData</key>
 	<dict>
 		<key>childOrder</key>
 		<dict>
+			<key>PackPre0wFreshen</key>
+			<dict>
+				<key>lastModification</key>
+				<real>503067982.53160399</real>
+				<key>version</key>
+				<dict>
+					<key>059aab923eaddc2ae2975c7384c17b56c8134690053c82e3b029099839350844</key>
+					<integer>8</integer>
+				</dict>
+			</dict>
 			<key>PackPre0wFreshman</key>
 			<dict>
 				<key>lastModification</key>
@@ -195,7 +206,7 @@
 		<key>childOrder</key>
 		<dict>
 			<key>059aab923eaddc2ae2975c7384c17b56c8134690053c82e3b029099839350844</key>
-			<integer>4</integer>
+			<integer>8</integer>
 		</dict>
 		<key>sheetClusters</key>
 		<dict>
