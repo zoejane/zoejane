@@ -4,6 +4,7 @@
 <dict>
 	<key>childOrder</key>
 	<array>
+		<string>PackPre0wStart</string>
 		<string>PackPre0wFreshen</string>
 		<string>PackPre0wFreshman</string>
 	</array>
@@ -31,17 +32,31 @@
 					<integer>4</integer>
 				</dict>
 			</dict>
+			<key>PackPre0wStart</key>
+			<dict>
+				<key>lastModification</key>
+				<real>503068211.796866</real>
+				<key>version</key>
+				<dict>
+					<key>059aab923eaddc2ae2975c7384c17b56c8134690053c82e3b029099839350844</key>
+					<integer>11</integer>
+				</dict>
+			</dict>
 		</dict>
 		<key>sheetClusters</key>
 		<dict>
 			<key>Card01-Start.md</key>
 			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>503068220.21766299</real>
 				<key>lastModification</key>
-				<real>503065898.14700001</real>
+				<real>503068220.21766299</real>
 				<key>version</key>
 				<dict>
 					<key>059aab923eaddc2ae2975c7384c17b56c8134690053c82e3b029099839350844</key>
-					<integer>2</integer>
+					<integer>5</integer>
 				</dict>
 			</dict>
 			<key>Card02-Guide.md</key>
@@ -96,12 +111,16 @@
 			</dict>
 			<key>PackPre0wFreshen.md</key>
 			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>503068016.43366402</real>
 				<key>lastModification</key>
-				<real>503065898.14700598</real>
+				<real>503068016.43366402</real>
 				<key>version</key>
 				<dict>
 					<key>059aab923eaddc2ae2975c7384c17b56c8134690053c82e3b029099839350844</key>
-					<integer>2</integer>
+					<integer>4</integer>
 				</dict>
 			</dict>
 			<key>PackPre0wFreshman - 2.md</key>
@@ -206,12 +225,12 @@
 		<key>childOrder</key>
 		<dict>
 			<key>059aab923eaddc2ae2975c7384c17b56c8134690053c82e3b029099839350844</key>
-			<integer>8</integer>
+			<integer>11</integer>
 		</dict>
 		<key>sheetClusters</key>
 		<dict>
 			<key>059aab923eaddc2ae2975c7384c17b56c8134690053c82e3b029099839350844</key>
-			<integer>3</integer>
+			<integer>5</integer>
 		</dict>
 	</dict>
 </dict>
