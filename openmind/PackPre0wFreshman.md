@@ -1,19 +1,7 @@
---- 
-title: 如何学?拆解目的,分组练习
-excerpt: None
-layout: remember
-collection\_id: None
-collection\_title: OMOOC2py 新手上路
-category: remember
-tags: None
-image: None
-source: None
-code: 1.6.3
----
+## 如何学?拆解目的,分组练习
+
 ### 正面
   
-
-
 - 根据笨方法 26 课的内容, 自行进行知识组块
 	+ 无比详细:划分成一系列小任务(分块)
 	+ 先后顺序:循序渐进
@@ -21,39 +9,23 @@ code: 1.6.3
 	+ 目标明确:每个小任务的目标都具体量化
 - 写教程, 反复小黄鸭调试.
 
-
 ### 背面
-
 
 "学习之道"的作者维茨金称这个方法为"划小圈". 学投篮,可以将投篮动作分为很多小部分,比如眼睛看哪里,如何持球,下肢与上半身如何配合,出球时手腕的动作,等等... 每个小块就像仪器的一个部件,当每个部件运转良好,相互配合,就能发挥功效. 想想看,是不是所有专业教材都分了章节,一个章节一个主题?拿编程举例,一个章节就是一个小块,当熟练每个章节后,剩下地就是如何自由组合了. 
 
 - [如何学习一门新的编程语言?---在学习区刻意练习 - 阳志平的网志](http://www.yangzhiping.com/tech/learn-program-psychology.html)
 - [哪里来的天才,不过是刻意练习 - 简书](http://www.jianshu.com/p/2248df426862)
 
---- 
-title: 如何学?笨方法,手打代码!
-excerpt: None
-layout: remember
-collection\_id: None
-collection\_title: OMOOC2py 新手上路
-category: remember
-tags: None
-image: None
-source: None
-code: 1.6.1
----
+## 如何学?笨方法,手打代码!
+
 ### 正面
   
-
-
 建议用[官方文档](http://learnpythonthehardway.org/book/)... 为啥? [见一期优秀学员的经验](http://www.ibowarrow.com/CodingNotes/source/WhyOfficialTutorialsImportant.html)
 
 1. 新手建议, 手打代码, 尝试运行; 
 	+ 注意:一定有手打!
 2. 运行不了, 自行检查;
 3. 还是不行, 进入 [http://mergely.com/editor](http://mergely.com/editor) 对比代码比较
-
-
 
 ### 背面
 
@@ -64,29 +36,15 @@ code: 1.6.1
 - [coursera](https://www.coursera.org/course/interactivepython1)
 - [简明 Python 教程](http://woodpecker.org.cn/abyteofpython_cn/chinese/)
 
---- 
-title: 如何学?经常回顾
-excerpt: None
-layout: remember
-collection\_id: None
-collection\_title: OMOOC2py 新手上路
-category: remember
-tags: None
-image: None
-source: None
-code: 1.6.2
----
-### 背面
+## 如何学?经常回顾
+
+### 正面
   
-
-
 参考笨方法前 26 课的题目,不看代码,自行可以 code 出答案.
 
 > 简单而言, 就是以 每课 运行结果作为目标, 自行折腾, 看能否编出来. 真正用这个笨方法入门, 大脑强制映入编程格式;
 
 + 反复练习,增加神经回路, 形成大脑的肌肉记忆;
-
-
 
 ### 背面
 
@@ -94,18 +52,10 @@ code: 1.6.2
 
 - [真的有肌肉记忆吗? | 问答 | 问答 | 果壳网 科技有意思](http://www.guokr.com/question/471176/)
 
---- 
-title: 微信群名`勇猛精进`啥意思?
-excerpt: None
-layout: remember
-collection\_id: None
-collection\_title: OMOOC2py 新手上路
-category: remember
-tags: None
-image: None
-source: None
-code: 3.4
 ---
+
+## 微信群名`勇猛精进`啥意思?
+
 ### 正面
   
 打开你的脑洞猜猜大妈为啥定了这个名字?
@@ -123,18 +73,8 @@ code: 3.4
 		* 进 ~ `D`Evelop     持续进步为升级自我心智系统
 		* 即! 菜鸟们(`Bird` )! 得起飞啦!
 
---- 
-title: 哪个渠道提问最有效?
-excerpt: None
-layout: remember
-collection\_id: None
-collection\_title: OMOOC2py 新手上路
-category: remember
-tags: None
-image: None
-source: None
-code: 3.2
----
+## 哪个渠道提问最有效?
+
 ### 正面
   
 你在课程中遇到的问题通常有哪些?  
@@ -142,9 +82,7 @@ code: 3.2
 你尝试后发现,怎样的方式更容易得到大妈们的解答?  
 为什么那样做会更容易得到大妈们的解答?             
 
-
 ### 背面
-
 
 - `大妈们` 的调用接口根据优先级别排序如下:
 	1. Https://Github.Com/Openmindclub/Omooc2Py/Issues
@@ -158,42 +96,20 @@ code: 3.2
 		* [菜鸟常问对答](http://wiki.pychina.org/hd/FreshbirdFaq.html)
 		* [说与菜鸟](http://wiki.pychina.org/hd/FreshProposeFor.html)
 
---- 
-title: 每周的任务在哪里领取?
-excerpt: None
-layout: remember
-collection\_id: None
-collection\_title: OMOOC2py 新手上路
-category: remember
-tags: None
-image: None
-source: None
-code: 3.1
----
+## 每周的任务在哪里领取?
+
 ### 正面
   
-
 从0Wd4起,每周的任务从 [芝麻星卡片系统](Www.Iomooc.Com/Pages/Login.Html) 中领取 ,在 Python入门班-课程卡包-\*W行动包中. 
 
 完成后别忘了翻到卡片背面自评;-)
-
 
 ### 背面
 
 嗯哼, 当然的,不应该在这张卡片的背后!
 
---- 
-title: 课程让人最受益的是啥?
-excerpt: None
-layout: remember
-collection\_id: None
-collection\_title: OMOOC2py 新手上路
-category: remember
-tags: None
-image: None
-source: None
-code: 1.4
----
+## 课程让人最受益的是啥?
+
 ### 正面
   
 3个月的 Py 学习,猜猜最后让自己受益最大的环节是什么?  
@@ -202,7 +118,6 @@ code: 1.4
 坚持写代码?  
 提出好问题?  
 还是...  
-
 
 ### 背面
 
@@ -213,18 +128,8 @@ code: 1.4
 将当前自己的主要 问题/进展/成就 都记录并发布出来!
 只有这样,才更容易发现自己思维的漏洞,避免重蹈覆辙. 
 
---- 
-title: OMOOC2py 一周的学习是怎样的?
-excerpt: None
-layout: remember
-collection\_id: None
-collection\_title: OMOOC2py 新手上路
-category: remember
-tags: None
-image: None
-source: None
-code: 1.3
----
+## OMOOC2py 一周的学习是怎样的?
+
 ### 正面
   
 每周的集体节奏为:
@@ -236,8 +141,6 @@ code: 1.3
 * \*Wd4 公开课, Qa
 * \*Wd5 新任务接手, 背景调查, 先期检验性开发
 * \*Wd6 理解/分解/尝试 任务-\>定好方案
-
-
 
 ### 背面
 
@@ -259,18 +162,8 @@ code: 1.3
 在这个信息循环中流动的越快,越完备,
 集体的温暖感觉就越强烈.
 
---- 
-title: 为什么不用微信讨论技术?
-excerpt: None
-layout: remember
-collection\_id: None
-collection\_title: OMOOC2py 新手上路
-category: remember
-tags: None
-image: None
-source: None
-code: 3.3
----
+## 为什么不用微信讨论技术?
+
 ### 正面
   
 `2Omoocpy 勇猛精进组` 微信群的主要用于  
@@ -278,12 +171,10 @@ code: 3.3
 + 平时学员内部的 好物分享,线下活动召集,情绪疏通...
 + 公开课前后提醒, 即时网络技巧交流
 + 其它具体的 课程/技术/学习/心法, 教练们不承诺及时回答
-	  
 
 微信群如此信息交流如此及时,且是大家最熟悉的交流工具,为什么在提问渠道的优先级中排最低?
 
 多好的及时沟通平台,为什么不用于课程/技术/学习/心法呢?
-
 
 ### 背面
 
@@ -291,18 +182,8 @@ code: 3.3
 	* [为什么不应该使用QQ进行技术交流](Http://Blog.Zhgdg.Org/2013-06/Anti-Qq-As-Tech-Communication/)
 	* [以 Github 为核心的高效协同沟通](Https://Github.Com/Openmindclub/Prd/Issues/1)
 
---- 
-title: 私人教程有啥要求?
-excerpt: None
-layout: remember
-collection\_id: None
-collection\_title: OMOOC2py 新手上路
-category: remember
-tags: None
-image: None
-source: None
-code: 4.3
----
+## 私人教程有啥要求?
+
 ### 正面
   
 + 课程要求每位学员,必须有私人笔记/教程的持续输出渠道:
@@ -324,35 +205,23 @@ code: 4.3
 	* 发布为合理干净有意义的 URI 
 		  
 
---- 
-title: 那些缩写都是啥意思?
-excerpt: None
-layout: remember
-collection\_id: None
-collection\_title: OMOOC2py 新手上路
-category: remember
-tags: None
-image: None
-source: None
-code: 4.1
----
+## 那些缩写都是啥意思?
+
 ### 正面
-  
 
 课程指令中常见各种缩写,是什么意思?有什么约定吗?
-
 
 ### 背面
 
 ~ 为统一各种课程元素的标识追踪,特此约定一组简单的缩写,代表固定的属性
 
-## 数字
+#### 数字
 
 - 充分使用程序思想
 - 数字序列从 0 开始
 - 自然周从 星期天开始,计为 `第0日`
 
-## 时间
+#### 时间
 
 - `w` ~ week 周
 - `d` ~ day 日
@@ -364,7 +233,7 @@ code: 4.1
 	+ 开课后,为正数
 		* `0wd3` 为 10.10当周第三天,即 151014
 
-## 指代
+#### 指代
 ~ 对课程中所有角色进行 geek 化的缩写,营造氛围
 
 - CLO ~ Chief Lightning Officer  首席开光师
@@ -376,7 +245,7 @@ code: 4.1
 - 士气总长
 - ...
 
-## 文档
+#### 文档
 ~ 合理化常见事务的缩写, 以便在 维基以及各种命名中形成统一
 
 - 课程指代:
@@ -408,22 +277,10 @@ code: 4.1
 	+ `Doc` ~ Document 文档
 	+ `Idx` ~ Index 索引
 
---- 
-title: 学习过程信息流是怎样的?
-excerpt: None
-layout: remember
-collection\_id: None
-collection\_title: OMOOC2py 新手上路
-category: remember
-tags: None
-image: None
-source: None
-code: 3.1
+## 学习过程信息流是怎样的?
 
----
 ### 正面
   
-
 - 输入: ZhiMastar
 - 输出: GitHub    
 
@@ -441,10 +298,7 @@ code: 3.1
 	 |       /     _Src/ 发布代码
 	 +------+
 
-
-
 ### 背面
-
 
 Tips:
 
@@ -452,27 +306,11 @@ Tips:
 - 在这个信息循环中流动的越快,越完备,
 - 集体的温暖感觉就越强烈.
 
-	  
+## 课程中的主要角色有哪些?
 
---- 
-title: 课程中的主要角色有哪些?
-excerpt: None
-layout: remember
-collection\_id: None
-collection\_title: OMOOC2py 新手上路
-category: remember
-tags: None
-image: None
-source: None
-code: 4.5
----
 ### 正面
   
 你看到了哪些主要角色,他们的关系是怎样的?
-
-
-
-
 
 ### 背面
 
@@ -483,21 +321,8 @@ code: 4.5
 	+ 因为,大妈们也没有 `他心通` ~ 无法感应到大家的痛苦
 	+ 所以,感觉到任何困惑请大声吼出来!
 
+## 0M00C2py 课程培养目标是什么?
 
-
---- 
-title: 0M00C2py 课程培养目标是什么?
-excerpt: None
-layout: remember
-collection\_id: None
-collection\_title: OMOOC2py 新手上路
-category: remember
-tags: None
-image: None
-source: None
-code: 1.0
-
----
 ### 正面
   
 + 掌握基础 Py 语法
@@ -518,18 +343,8 @@ code: 1.0
 - 一切发生的前提是
 - 你跟的上,每周都能完成任务!
 
---- 
-title: 本期课程的整体规划是啥?
-excerpt: None
-layout: remember
-collection\_id: None
-collection\_title: OMOOC2py 新手上路
-category: remember
-tags: None
-image: None
-source: None
-code: 1.2
----
+##  本期课程的整体规划是啥?
+
 ### 正面
   
 - +2W: 节奏形成
@@ -552,24 +367,13 @@ code: 1.2
 	+ 12.25~1.1 最后一周
 	+ 通过一次 42 分钟的网上路演, 向所有学员综合展示学习成果
 
-
 ### 背面
 
 当然也有备用的, 
 真心期待你们触发不了.
 
---- 
-title: 参与课程需要多大时间投入?
-excerpt: None
-layout: remember
-collection\_id: None
-collection\_title: OMOOC2py 新手上路
-category: remember
-tags: None
-image: None
-source: None
-code: 1.5
----
+## 参与课程需要多大时间投入?
+
 ### 正面
 
 规律的作息是你面对异星未知世界强大的后盾!  
@@ -585,54 +389,26 @@ code: 1.5
 + 周末 4小时
 + 每周 10+小时
 
-
-
 ### 背面
 
 - [为什么我们不能坚持? - 心理杂志 - 壹心理](http://www.xinli001.com/info/5069/)
 
---- 
-title: 开智Py旗舰班体验如何?
-excerpt: None
-layout: remember
-collection\_id: None
-collection\_title: OMOOC2py 新手上路
-category: remember
-tags: None
-image: None
-source: None
-code: 2.0
----
+## 开智Py旗舰班体验如何?
+
 ### 正面
   
-
 嗯... 你尝试过哪些方式去了解?
 
 - 查看 Py 旗舰班的仓库?
 - 找 Py 旗舰班的学员询问了解?
 - 翻译 Py 旗舰班学员的私人教程?
 
-
-
 ### 背面
-
 
 来看看已经做了这些尝试的小伙伴怎么说 [星际迷航 备战篇](Https://Github.Com/Jeremiahzhang/Gopython/Blob/Master/Py-Startrek-Prepare/2015-9-26-Hiddenmission-%E5%BC%80%E6%99%BApy%E5%85%A5%E9%97%A8%E4%BD%93%E9%AA%8C.Md)
 
-  
+## 每周的学习强度如何?
 
---- 
-title: 每周的学习强度如何?
-excerpt: None
-layout: remember
-collection\_id: None
-collection\_title: OMOOC2py 新手上路
-category: remember
-tags: None
-image: None
-source: None
-code: 1.6
----
 ### 正面
   
 尽力约束在:
@@ -644,10 +420,9 @@ code: 1.6
 - 720+ 条微信群吐糟
 - 4200+ 字(5+篇 笔记/教程)
 
-
 ### 背面
 
-如果作不到,
-那么只有 某某保祐了,
+如果做不到,
+那么只有 某某 保佑了,
 
 因为思维/能力/知识 的获得, 只有你自发的努力,才获得的了.  
