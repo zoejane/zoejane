@@ -26,6 +26,16 @@
 					<integer>159</integer>
 				</dict>
 			</dict>
+			<key>史上最好的教程.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>503073623.25349301</real>
+				<key>version</key>
+				<dict>
+					<key>059aab923eaddc2ae2975c7384c17b56c8134690053c82e3b029099839350844</key>
+					<integer>176</integer>
+				</dict>
+			</dict>
 			<key>哪个渠道提问最有效.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -126,6 +136,16 @@
 					<integer>98</integer>
 				</dict>
 			</dict>
+			<key>漫游指南.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>503068572.697267</real>
+				<key>version</key>
+				<dict>
+					<key>059aab923eaddc2ae2975c7384c17b56c8134690053c82e3b029099839350844</key>
+					<integer>173</integer>
+				</dict>
+			</dict>
 			<key>私人教程有啥要求.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -191,6 +211,9 @@
 	<key>sheetClusters</key>
 	<array>
 		<array>
+			<string>漫游指南.md</string>
+		</array>
+		<array>
 			<string>课程培养目标是什么.md</string>
 		</array>
 		<array>
@@ -207,6 +230,9 @@
 		</array>
 		<array>
 			<string>课程让人最受益的是啥.md</string>
+		</array>
+		<array>
+			<string>史上最好的教程.md</string>
 		</array>
 		<array>
 			<string>参与课程需要多大时间投入.md</string>
@@ -252,7 +278,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>059aab923eaddc2ae2975c7384c17b56c8134690053c82e3b029099839350844</key>
-			<integer>167</integer>
+			<integer>177</integer>
 		</dict>
 	</dict>
 </dict>
