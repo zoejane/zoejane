@@ -149,11 +149,21 @@
 			<key>私人教程有啥要求.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>503066822.16654098</real>
+				<real>503659950.95327699</real>
 				<key>version</key>
 				<dict>
 					<key>059aab923eaddc2ae2975c7384c17b56c8134690053c82e3b029099839350844</key>
-					<integer>145</integer>
+					<integer>187</integer>
+				</dict>
+			</dict>
+			<key>缩写规约.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>503659521.92977601</real>
+				<key>version</key>
+				<dict>
+					<key>059aab923eaddc2ae2975c7384c17b56c8134690053c82e3b029099839350844</key>
+					<integer>185</integer>
 				</dict>
 			</dict>
 			<key>课程一周的学习是怎样的.md</key>
@@ -226,7 +236,7 @@
 			<string>课程一周的学习是怎样的.md</string>
 		</array>
 		<array>
-			<string>私人教程有啥要求.md</string>
+			<string>缩写规约.md</string>
 		</array>
 		<array>
 			<string>课程让人最受益的是啥.md</string>
@@ -239,6 +249,9 @@
 		</array>
 		<array>
 			<string>为什么不用微信讨论技术.md</string>
+		</array>
+		<array>
+			<string>私人教程有啥要求.md</string>
 		</array>
 		<array>
 			<string>如何学-拆解目的,分组练习.md</string>
@@ -278,7 +291,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>059aab923eaddc2ae2975c7384c17b56c8134690053c82e3b029099839350844</key>
-			<integer>177</integer>
+			<integer>187</integer>
 		</dict>
 	</dict>
 </dict>

@@ -56,6 +56,36 @@
 					<integer>41</integer>
 				</dict>
 			</dict>
+			<key>最小复活锦囊.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>503665620.96938902</real>
+				<key>version</key>
+				<dict>
+					<key>059aab923eaddc2ae2975c7384c17b56c8134690053c82e3b029099839350844</key>
+					<integer>69</integer>
+				</dict>
+			</dict>
+			<key>最小求助指南.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>503665616.93726701</real>
+				<key>version</key>
+				<dict>
+					<key>059aab923eaddc2ae2975c7384c17b56c8134690053c82e3b029099839350844</key>
+					<integer>67</integer>
+				</dict>
+			</dict>
+			<key>最小行动清单.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>503665614.12140501</real>
+				<key>version</key>
+				<dict>
+					<key>059aab923eaddc2ae2975c7384c17b56c8134690053c82e3b029099839350844</key>
+					<integer>65</integer>
+				</dict>
+			</dict>
 			<key>演习.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -107,10 +137,19 @@
 			<string>我要没时间啦.md</string>
 		</array>
 		<array>
+			<string>最小行动清单.md</string>
+		</array>
+		<array>
 			<string>百思不得其解.md</string>
 		</array>
 		<array>
+			<string>最小求助指南.md</string>
+		</array>
+		<array>
 			<string>原地满血复活.md</string>
+		</array>
+		<array>
+			<string>最小复活锦囊.md</string>
 		</array>
 		<array>
 			<string>解锁最小系统.md</string>
@@ -135,7 +174,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>059aab923eaddc2ae2975c7384c17b56c8134690053c82e3b029099839350844</key>
-			<integer>49</integer>
+			<integer>69</integer>
 		</dict>
 	</dict>
 </dict>
