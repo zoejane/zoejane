@@ -9,21 +9,21 @@
 			<key>Python之旅.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>503148738.24046999</real>
+				<real>503655347.69636202</real>
 				<key>version</key>
 				<dict>
 					<key>059aab923eaddc2ae2975c7384c17b56c8134690053c82e3b029099839350844</key>
-					<integer>63</integer>
+					<integer>92</integer>
 				</dict>
 			</dict>
-			<key>Say Hi.md</key>
+			<key>Sayeahoo!.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>503068491.73015499</real>
+				<real>503655120.42975098</real>
 				<key>version</key>
 				<dict>
 					<key>059aab923eaddc2ae2975c7384c17b56c8134690053c82e3b029099839350844</key>
-					<integer>51</integer>
+					<integer>85</integer>
 				</dict>
 			</dict>
 			<key>同伴.md</key>
@@ -76,14 +76,24 @@
 					<integer>51</integer>
 				</dict>
 			</dict>
-			<key>星舰团队【待增补】.md</key>
+			<key>星舰团队 - 司令部.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>503068491.73015499</real>
+				<real>503654750.874246</real>
 				<key>version</key>
 				<dict>
 					<key>059aab923eaddc2ae2975c7384c17b56c8134690053c82e3b029099839350844</key>
-					<integer>51</integer>
+					<integer>77</integer>
+				</dict>
+			</dict>
+			<key>星舰团队 - 驾驶舱.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>503654730.88783997</real>
+				<key>version</key>
+				<dict>
+					<key>059aab923eaddc2ae2975c7384c17b56c8134690053c82e3b029099839350844</key>
+					<integer>73</integer>
 				</dict>
 			</dict>
 			<key>星舰展馆.md</key>
@@ -106,14 +116,24 @@
 					<integer>51</integer>
 				</dict>
 			</dict>
-			<key>首席布道师.md</key>
+			<key>是也乎.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>503068491.73015499</real>
+				<real>503655368.85263199</real>
 				<key>version</key>
 				<dict>
 					<key>059aab923eaddc2ae2975c7384c17b56c8134690053c82e3b029099839350844</key>
-					<integer>51</integer>
+					<integer>93</integer>
+				</dict>
+			</dict>
+			<key>首席布道师 - CEO(Chief Evangelist Office).md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>503655002.33530998</real>
+				<key>version</key>
+				<dict>
+					<key>059aab923eaddc2ae2975c7384c17b56c8134690053c82e3b029099839350844</key>
+					<integer>83</integer>
 				</dict>
 			</dict>
 		</dict>
@@ -130,19 +150,25 @@
 			<string>报到.md</string>
 		</array>
 		<array>
-			<string>Say Hi.md</string>
-		</array>
-		<array>
 			<string>Python之旅.md</string>
 		</array>
 		<array>
-			<string>首席布道师.md</string>
+			<string>Sayeahoo!.md</string>
+		</array>
+		<array>
+			<string>是也乎.md</string>
+		</array>
+		<array>
+			<string>首席布道师 - CEO(Chief Evangelist Office).md</string>
 		</array>
 		<array>
 			<string>大妈角色卡.md</string>
 		</array>
 		<array>
-			<string>星舰团队【待增补】.md</string>
+			<string>星舰团队 - 驾驶舱.md</string>
+		</array>
+		<array>
+			<string>星舰团队 - 司令部.md</string>
 		</array>
 		<array>
 			<string>星舰日志.md</string>
@@ -161,7 +187,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>059aab923eaddc2ae2975c7384c17b56c8134690053c82e3b029099839350844</key>
-			<integer>72</integer>
+			<integer>94</integer>
 		</dict>
 	</dict>
 </dict>
