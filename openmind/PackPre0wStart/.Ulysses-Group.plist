@@ -78,22 +78,26 @@
 			</dict>
 			<key>星舰团队 - 司令部.md</key>
 			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>503669081.92614299</real>
 				<key>lastModification</key>
-				<real>503654750.874246</real>
+				<real>503669081.92614299</real>
 				<key>version</key>
 				<dict>
 					<key>059aab923eaddc2ae2975c7384c17b56c8134690053c82e3b029099839350844</key>
-					<integer>77</integer>
+					<integer>95</integer>
 				</dict>
 			</dict>
-			<key>星舰团队 - 驾驶舱.md</key>
+			<key>星舰团队.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>503654730.88783997</real>
+				<real>503669091.41053098</real>
 				<key>version</key>
 				<dict>
 					<key>059aab923eaddc2ae2975c7384c17b56c8134690053c82e3b029099839350844</key>
-					<integer>73</integer>
+					<integer>96</integer>
 				</dict>
 			</dict>
 			<key>星舰展馆.md</key>
@@ -165,7 +169,7 @@
 			<string>大妈角色卡.md</string>
 		</array>
 		<array>
-			<string>星舰团队 - 驾驶舱.md</string>
+			<string>星舰团队.md</string>
 		</array>
 		<array>
 			<string>星舰团队 - 司令部.md</string>
@@ -187,7 +191,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>059aab923eaddc2ae2975c7384c17b56c8134690053c82e3b029099839350844</key>
-			<integer>94</integer>
+			<integer>97</integer>
 		</dict>
 	</dict>
 </dict>
