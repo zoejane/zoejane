@@ -132,5 +132,27 @@ footer {
   header p {
     font-size: 1rem;
   }
+
+  /* Remove any vertical centering for mobile */
+  body {
+    display: block;
+  }
+
+  .container {
+    margin-top: 0;
+  }
+}
+
+@media (min-width: 769px) {
+  body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    min-height: 100vh;
+  }
+
+  .container {
+    margin-top: 18vh; /* Adjust this value to fine-tune the vertical position */
+  }
 }
 
