@@ -1,0 +1,65 @@
+# 依赖目录
+node_modules/
+.pnp/
+.pnp.js
+
+# 测试覆盖率
+coverage/
+
+# 生产构建文件
+build/
+dist/
+out/
+
+# 环境变量文件
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# 日志文件
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# 编辑器和IDE文件
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+*.sublime-project
+*.sublime-workspace
+
+# 缓存目录
+.cache/
+.next/
+.nuxt/
+.temp/
+.docusaurus/
+.serverless/
+
+# 本地SSL证书
+*.pem
+*.cert
+*.key
+
+# 临时文件
+*.log
+*.tmp
+.temp
+.tmp
+
+# TypeScript
+*.tsbuildinfo
+next-env.d.ts
+
+# 测试文件
+__tests__/__snapshots__/
+.nyc_output/
+
+# 其他
+.vercel
+.env*.local 
