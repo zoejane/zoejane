@@ -1,6 +1,4 @@
-document.addEventListener("DOMContentLoaded", (event) => {
-    // Initialize Feather icons
-    feather.replace()
-  })
-  
-  
+document.addEventListener("DOMContentLoaded", () => {
+  lucide.createIcons()
+})
+

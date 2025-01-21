@@ -1,5 +1,5 @@
 import Link from "next/link"
-import { Music, Pen, Code, Disc, Mic, BookOpen, Github, Globe } from "lucide-react"
+import { Music, Code, Disc, Mic, BookOpen, Github, Globe } from "lucide-react"
 import Footer from "./Footer"
 
 export default function Home() {
@@ -47,20 +47,13 @@ export default function Home() {
               </Link>
             </Card>
 
-            <Card title="Writing" icon={<Pen className="w-6 h-6 text-pink-500" />}>
+            <Card title="Writing" icon={<BookOpen className="w-6 h-6 text-pink-500" />}>
               <Link
                 href="https://blog.zoejane.net"
                 className="flex items-center space-x-2 text-gray-700 hover:text-pink-600 transition-colors"
               >
                 <BookOpen className="w-4 h-4" />
                 <span>Blog</span>
-              </Link>
-              <Link
-                href="https://poems.zoejane.net"
-                className="flex items-center space-x-2 text-gray-700 hover:text-pink-600 transition-colors"
-              >
-                <Pen className="w-4 h-4" />
-                <span>小诗</span>
               </Link>
             </Card>
           </div>
