@@ -141,6 +141,11 @@ footer {
   .container {
     margin-top: 0;
   }
+
+  .footer-content {
+    flex-direction: column;
+    gap: 0.5rem;
+  }
 }
 
 @media (min-width: 769px) {
@@ -154,5 +159,26 @@ footer {
   .container {
     margin-top: 18vh; /* Adjust this value to fine-tune the vertical position */
   }
+}
+
+/* 添加暗色模式支持 */
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: #1a1a1a;
+    color: #ffffff;
+  }
+  
+  .card {
+    background-color: #2d2d2d;
+  }
+  
+  a {
+    color: #7eb6ff;
+  }
+}
+
+/* 添加图片懒加载 */
+img {
+  loading: lazy;
 }
 
