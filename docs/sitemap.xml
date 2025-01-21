@@ -19,23 +19,4 @@
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
-
-    <!-- 音乐平台链接 -->
-    <url>
-        <loc>https://music.163.com/#/artist?id=53946965</loc>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-    </url>
-    <url>
-        <loc>https://y.qq.com/n/ryqq/singer/000sJpue1WR1Ae</loc>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-    </url>
-
-    <!-- GitHub链接 -->
-    <url>
-        <loc>https://github.com/zoejane</loc>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-    </url>
 </urlset> 
